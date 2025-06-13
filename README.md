@@ -67,3 +67,11 @@ Once you have set up the environment and obtained the necessary data files, run 
 
 ```bash
 streamlit run app.py
+
+##This will open the application in your web browser.
+
+**Demo**
+Experience the app live: https://findnew-movies.streamlit.app/
+
+**Contributing**
+Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
